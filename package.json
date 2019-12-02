@@ -1,7 +1,7 @@
 {
-  "name": "template-ts-kata",
+  "name": "diamond",
   "version": "1.0.0",
-  "description": "Template TS kata",
+  "description": "Diamond TS kata",
   "main": "src/index.ts",
   "dependencies": {
     "@types/jest": "^24.0.18",
@@ -14,5 +14,8 @@
     "test": "jest"
   },
   "author": "Anthony REY",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.12.14"
+  }
 }
